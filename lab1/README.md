@@ -14,7 +14,7 @@ Saisissez cela dans le terminal sur le port local 8081 et vous pourrez voir le m
 exemples :
 
 http://localhost:8081/hello?name=marko
-Ou
+ou
 http://localhost:8081/hello?name=Pablo
 
 
