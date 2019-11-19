@@ -1,3 +1,3 @@
-# technologie_web
+# Technologie Web
 
 List of technology web labs
