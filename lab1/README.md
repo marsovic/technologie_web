@@ -13,15 +13,13 @@ node hello
 Saisissez cela dans le terminal sur le port local 8081 et vous pourrez voir le message suivi du nom que vous aurez saisi en paramètre de requête.
 exemples :
 
-http://localhost:8081/hello?name=marko
-ou
-http://localhost:8081/hello?name=Pablo
+`http://localhost:8081/hello?name=marko` ou `http://localhost:8081/hello?name=Pablo`
 
 
 Si rien n'est saisi après le numéro du port, alors on peut lire 'Error 404'.
 exemple : 
 
-http://localhost:8081
+`http://localhost:8081
 
 ## Author
 ARSOVIC Marko
